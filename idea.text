@@ -1,7 +1,0 @@
-User Story 1(Achieve renaming single file, nothing fancy here):
-    - python script that u can run from command line
-    - give it a file path and new file name
-    - updates the file name
-
-User Story 2:
-    - Take file directory path as input 
