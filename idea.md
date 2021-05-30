@@ -5,4 +5,4 @@ User Story 1(Achieve renaming single file, nothing fancy here):
 
 User Story 2 (Renaming all files in a folder):
     - [x] python script takes a folder path and new file name
-    - [] rename all the files in that folder path with the new file name and add a counter
+    - [x] rename all the files in that folder path with the new file name and add a counter
